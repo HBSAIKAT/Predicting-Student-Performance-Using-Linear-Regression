@@ -3,7 +3,6 @@
 This project aims to predict a student's academic performance index based on various factors such as hours studied, previous scores, extracurricular activities, sleep hours, and sample question papers practiced. The model uses a **Linear Regression** algorithm to make these predictions, providing an understanding of the key factors influencing academic performance.
 
 ---
-
 ## **Project Overview**
 
 The goal of this project is to develop a predictive model that helps understand how different variables impact a student's academic performance. By leveraging machine learning, we can predict a student’s likely performance based on their study habits, previous academic results, extracurricular participation, sleep schedule, and practice efforts.
